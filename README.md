@@ -18,7 +18,7 @@
 
 ## 📌 Overview
 
-This project is a full end-to-end ML pipeline — from raw data preprocessing to a deployed web application. It uses a **Support Vector Classifier (SVC)** trained on the Wisconsin Breast Cancer Dataset to classify tumors as **Malignant** or **Benign**.
+This project is a full end-to-end ML pipeline — from raw data preprocessing to a web application. It uses a **Support Vector Classifier (SVC)** trained on the Wisconsin Breast Cancer Dataset to classify tumors as **Malignant** or **Benign**.
 
 > ⚠️ This tool is for **educational purposes only** and is not a substitute for clinical diagnosis.
 
